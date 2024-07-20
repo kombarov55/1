@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Kombarov\\TelegramTest\\" : "src"
+		}
+	},
+	"name" : "kombarov/telegramtest",
+	"require" : {
+		"php" : ">=8.2"
+	}
+}
